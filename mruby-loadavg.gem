@@ -1,0 +1,7 @@
+name: mruby-loadavg
+description: Loadavg class
+author: Misaki Shioi
+website: https://github.com/shioimm/mruby-loadavg
+protocol: git
+repository: https://github.com/shioimm/mruby-loadavg.git
+license: MIT
